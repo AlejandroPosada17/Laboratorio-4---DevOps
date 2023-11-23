@@ -1,6 +1,8 @@
 var equipoDeFutbol = {
     nombre: "Once Caldas",
     directorTecnico: "Juan Pérez",
+    presidente: "Carlos Rodríguez",
+    presupuesto: "$120 millones",
     jugadores: [
         {
             nombre: "Jugador 1",
